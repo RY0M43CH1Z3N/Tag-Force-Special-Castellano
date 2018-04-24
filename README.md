@@ -37,7 +37,7 @@ Sobre todo a Yafte  por la colaboración, pasarme las herramientas, probar toda
 # Aviso Legal
 
 Este parche en español no es oficial ni apoyado por Konami, NIS America o cualquier otra entidad asociada a la marca o franquicia de Yu-Gi-Oh!.Este parche es gratuito por lo que puede ser distribuido libremente, siempre cumpliendo las siguientes condiciones: 
-- (1) Este documento se acompañará con el parche y tanto el documento como los demás archivos no se podrán modificar de ningún modo. 
+- (1) Este documento se acompañará con el parche y tanto el documento como los demás archivos se podrán modificar dando el código fuente como los créditos de las personas envueltas en el proyecto. 
 - (2) El parche no se distribuye con o como parte de cualquier ISO u otro tipo de paquete. 
 - (3) Este parche no se cambia por dinero ni por ningún tipo de servicio, es totalmente gratuito.
 
