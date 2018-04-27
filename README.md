@@ -18,6 +18,11 @@
 - Agradecer por el tiempo invertido en ello y con los que ha sido posible crear esta traducción
 
 
+# Errores conocidos
+
+- En el tutorial no hay símbolos abiertos de exclamación (¡) ni símbolos abiertos de pregunta (¿) ni vocales tildadas, (á,é,í,ó,ú) ni la letra ñ. Si alguien sabe como añadir estos símbolos, por favor que envíe un MP o de señales de vida para ayudar en el proyecto.
+
+
 # Problemas, errores, mejoras o falta algo en la traducción
 
 Aquí, en la pestalla de Problemas de github. Dependiendo de si hay algún problema lo iré actualizando e intentando arreglar.
