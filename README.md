@@ -1,11 +1,12 @@
 # Tag Force Special Castellano
 
---Primera Version 0.0.1--
+--Segunda Versión 0.0.2--
 (Solo Eboot.bin)
 
 - Todos los nombres de Duelistas en Original [Ejemplos: Jaden --> Judai (Nombre Original)]
 - Todos los Nombres de los Decks En Castellano
 - Ciertas opciones en Castellano
+- Tutorial para principiantes en Castellano
 
 
 # Instrucciones
