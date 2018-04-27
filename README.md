@@ -23,7 +23,7 @@
 
 - En el tutorial no hay símbolos abiertos de exclamación (¡) ni símbolos abiertos de pregunta (¿) ni vocales tildadas, (á,é,í,ó,ú) ni la letra ñ. Si alguien sabe como añadir estos símbolos, por favor que envíe un MP o de señales de vida para ayudar en el proyecto.
 
--En el tutorial del deck y opciones se verán palabras juntas o sin terminar porque no había espacio físico para añadir más caracteres.
+- En el tutorial del deck y opciones se verán palabras juntas o sin terminar porque no había espacio físico para añadir más caracteres.
 Si alguien sabe como ampliar el límite, por favor que envíe un MP o de señales de vida para ayudar en el proyecto.
 
 # Problemas, errores, mejoras o falta algo en la traducción
