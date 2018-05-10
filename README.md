@@ -1,8 +1,5 @@
 # Tag Force Special Castellano
 
---Segunda Versión 0.0.2--
-
-
 - Todos los nombres de Duelistas en Original [Ejemplos: Jaden --> Judai (Nombre Original)]
 - Todos los Nombres de los Decks En Castellano.
 - Ciertas opciones en Castellano.
@@ -12,8 +9,9 @@
 # Instrucciones
 
 - Buscar la ISO o tenerla de Yu-Gi-Oh! Tag Force Special Arc-V
-- Buscar el Programa UMD GEN v.4.00
-- POR AÑADIR PASOS INTERMADIOS
+- Descargar el Xdelta UI (https://www.romhacking.net/utilities/598/)
+- Ejecuta el programa, en Patch elige el archivo .xdelta descargado. En source File selecciona la ISO, en output file, pon un nombre.ISO al archivo que te vaya generar.
+- Jugar.
 - Agradecer por el tiempo invertido en ello y con los que ha sido posible crear esta traducción
 
 
