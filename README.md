@@ -1,4 +1,3 @@
-https://travis-ci.org/mmozeiko/pkgi/
 
 # Tag Force Special Castellano
 
