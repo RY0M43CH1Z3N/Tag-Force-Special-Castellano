@@ -1,4 +1,4 @@
-[![Travis CI Build Status][img_travis]][Tag-Force-Special-Castellano_travis] [![Downloads][img_downloads]][Tag-Force-Special-Castellano_downloads] [![Release][img_latest]][Tag-Force-Special-Castellano_latest] [![License][img_license]][Tag-Force-Special-Castellano_license]
+https://travis-ci.org/mmozeiko/pkgi/
 
 # Tag Force Special Castellano
 
