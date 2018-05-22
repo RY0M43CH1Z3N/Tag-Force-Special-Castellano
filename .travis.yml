@@ -1,1 +1,7 @@
+git:  
+  depth: 1
+os: linux
 
+language: c
+dist: trusty 
+sudo: false
