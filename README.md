@@ -9,10 +9,10 @@
 
 # Instrucciones
 
-- Buscar la ISO o tenerla de Yu-Gi-Oh! Tag Force Special Arc-V
+- Buscar la ISO o tenerla de Yu-Gi-Oh! Tag Force Special Arc-V [NPJH00142]
 - Descargar el Xdelta UI (https://www.romhacking.net/utilities/598/)
 - Descargar y descomprimir el archivo .xdelta de  la descarga de aquí.
-- Descomprime y ejecuta el programa Xdelta UI, en Patch elige el archivo .xdelta descargado. En source File selecciona la ISO, en output file, pon un nombre.ISO al archivo que te vaya generar.
+- Descomprime y ejecuta el programa Xdelta UI, en Patch elige el archivo .xdelta descargado (selecciona el archivo que tiene ENG si tu ISO es la inglesa, o selecciona JAP si la ISO que tienes es la japonesa). En source File selecciona la ISO, en output file, pon un nombre.ISO al archivo que te vaya generar.
 - Jugar.
 - Agradecer por el tiempo invertido en ello y con los que ha sido posible crear esta traducción
 
