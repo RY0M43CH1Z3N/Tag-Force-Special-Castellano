@@ -1,11 +1,20 @@
 [![Build Status](https://travis-ci.org/RY0M43CH1Z3N/Tag-Force-Special-Castellano.svg?branch=master)](https://travis-ci.org/RY0M43CH1Z3N/Tag-Force-Special-Castellano)
 # Tag Force Special Castellano
-
+* Actualmente Hecho:
 - Todos los nombres de Duelistas en Original [Ejemplos: Jaden --> Judai (Nombre Original)]
 - Todos los Nombres de los Decks En Castellano.
 - Ciertas opciones en Castellano.
 - Tutorial para principiantes en Castellano.
+- Tutorial de Decks en Castellano.
+- Pestañas para configurar Decks en Castellano.
 
+* Falta:
+- Traducir modo historia.
+- Traducir de dónde viene cada duelista.
+- Traducir cartas.
+- Traducir el diseño de los duelos.
+- Traducir opciones al iniciar el juego.
+- Traducir comentarios NPC en combate.
 
 # Instrucciones
 
