@@ -28,7 +28,7 @@ Si alguien sabe como ampliar el límite, por favor que envíe un MP o de señale
 
 # Problemas, errores, mejoras o falta algo en la traducción
 
-Aquí, en la pestalla de Problemas de github. Dependiendo de si hay algún problema lo iré actualizando e intentando arreglar.
+Aquí, en la pestaña de Problemas de github. Dependiendo de si hay algún problema lo iré actualizando e intentando arreglar.
 
 
 
