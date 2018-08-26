@@ -1,4 +1,3 @@
-[![Build Status](https://travis-ci.org/RY0M43CH1Z3N/Tag-Force-Special-Castellano.svg?branch=master)](https://travis-ci.org/RY0M43CH1Z3N/Tag-Force-Special-Castellano)
 # Tag Force Special Castellano
 * Actualmente Hecho:
 - Todos los nombres de Duelistas en Original [Ejemplos: Jaden --> Judai (Nombre Original)]
