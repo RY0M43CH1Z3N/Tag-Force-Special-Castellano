@@ -17,7 +17,7 @@
 
 # Instrucciones
 
-- Buscar la ISO o tenerla de Yu-Gi-Oh! Tag Force Special Arc-V [NPJH00142] con el parche en ingés.
+- Buscar la ISO o tenerla de Yu-Gi-Oh! Tag Force Special Arc-V [NPJH00142] con el parche en inglés.
 - Descargar el Xdelta UI (https://www.romhacking.net/utilities/598/).
 - Descargar y descomprimir el archivo .xdelta de  la descarga de aquí.
 - Descomprime y ejecuta el programa Xdelta UI, en Patch elige el archivo .xdelta descargado. En source File selecciona la ISO de Yu-Gi-Oh! Tag Force Special Arc-V [NPJH00142], en output file, pon un nombre.ISO al archivo que te vaya generar.
@@ -46,7 +46,7 @@ En la página web: https://z3r0web.wordpress.com/2018/04/23/yu-gi-oh-tag-force-s
 
 # Agradecimientos
 
-Sobre todo a Yafte  por la colaboración, pasarme las herramientas, probar todas las versiones que hice y a clickclaxer01 el Dios de Yu-Gi-Oh! primero por su traducción al inglés que sin él tendríamos que tirar de google translate y por contestarnos con las herramientas que se habían perdido hace tiempo.A Omarrio por meterse en el titánico proyecto de producir las herramientas necesarias para los últimos Tag Force de esta maravillosa consola. A todo el equipo de Xenotranslations por juntarse con Omarrio y abrir la puerta a que esté disponible en otros idiomas.
+Sobre todo a Yafte por pasarme las herramientas, a Francisco Gimenez por su ayuda en la traducción y a clickclaxer01 el Dios de Yu-Gi-Oh! primero por su traducción al inglés que sin él tendríamos que tirar de google translate y por contestarnos con las herramientas que se habían perdido hace tiempo.A Omarrio por meterse en el titánico proyecto de producir las herramientas necesarias para los últimos Tag Force de esta maravillosa consola. A todo el equipo de Xenotranslations por juntarse con Omarrio y abrir la puerta a que esté disponible en otros idiomas.
 
 
 
