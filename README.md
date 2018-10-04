@@ -6,11 +6,11 @@
 - Tutorial para principiantes en Castellano.
 - Tutorial de Decks en Castellano.
 - Pestañas para configurar Decks en Castellano.
+- Orígenes de todos los duelistas.
 
 
 * Falta:
 - Traducir modo historia.
-- Traducir de dónde viene cada duelista.
 - Traducir cartas.
 - Traducir el diseño de los duelos.
 - Traducir opciones al iniciar el juego.
@@ -18,7 +18,7 @@
 
 # Instrucciones
 
-- Buscar la ISO o tenerla de Yu-Gi-Oh! Tag Force Special Arc-V [NPJH00142] con el parche en inglés.
+- Tener la ISO de Yu-Gi-Oh! Tag Force Special Arc-V [NPJH00142] con el parche en inglés.
 - Descargar el Xdelta UI (https://www.romhacking.net/utilities/598/).
 - Descargar y descomprimir el archivo .xdelta de  la descarga de aquí.
 - Descomprime y ejecuta el programa Xdelta UI, en Patch elige el archivo .xdelta descargado. En source File selecciona la ISO de Yu-Gi-Oh! Tag Force Special Arc-V [NPJH00142], en output file, pon un nombre.ISO al archivo que te vaya generar.
