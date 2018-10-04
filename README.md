@@ -7,6 +7,7 @@
 - Tutorial de Decks en Castellano.
 - Pestañas para configurar Decks en Castellano.
 
+
 * Falta:
 - Traducir modo historia.
 - Traducir de dónde viene cada duelista.
