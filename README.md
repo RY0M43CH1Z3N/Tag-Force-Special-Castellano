@@ -43,7 +43,7 @@ Aquí, en la pestaña de Problemas de github. Dependiendo de si hay algún probl
 
 # Agradecimientos, donaciones, peticiones de traducción
 
-En la página web: https://z3r0web.wordpress.com/2018/04/23/yu-gi-oh-tag-force-special-psp-castellano-rework-y-finalizacion/
+En la página web: https://z3r0web.wordpress.com/yu-gi-oh-tag-force-special-psp-castellano-rework-y-finalizacion/
 
 # Agradecimientos
 
