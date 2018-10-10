@@ -9,12 +9,23 @@
 - Orígenes de todos los duelistas.
 
 
+
+
 * Falta:
 - Traducir modo historia.
 - Traducir cartas.
 - Traducir el diseño de los duelos.
 - Traducir opciones al iniciar el juego.
 - Traducir comentarios NPC en combate.
+
+
+
+
+
+* Lo que tendrá que hacer un editor de gráficos:
+- Todas las cartas.
+- Imágenes en el duelo.
+- Más cosas por añadir.
 
 # Instrucciones
 
