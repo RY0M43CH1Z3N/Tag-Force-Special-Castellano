@@ -1,6 +1,6 @@
 # Tag Force Special Castellano
 
-* Hecho[x] y sin hacer [ ].
+* Hecho[v] y sin hacer [ ].
 - [x] Todos los nombres de Duelistas en Original [Ejemplos: Jaden --> Judai (Nombre Original)]
 - [x] Todos los Nombres de los Decks En Castellano.
 - [x] Ciertas opciones en Castellano.
