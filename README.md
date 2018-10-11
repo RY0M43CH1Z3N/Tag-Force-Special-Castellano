@@ -1,29 +1,29 @@
 # Tag Force Special Castellano
 * Actualmente Hecho:
-[x] Todos los nombres de Duelistas en Original [Ejemplos: Jaden --> Judai (Nombre Original)]
-[x] Todos los Nombres de los Decks En Castellano.
-[x] Ciertas opciones en Castellano.
-[x] Tutorial para principiantes en Castellano.
-[x] Tutorial de Decks en Castellano.
-[x] Pestañas para configurar Decks en Castellano.
-[x] Orígenes de todos los duelistas.
+- [x] Todos los nombres de Duelistas en Original [Ejemplos: Jaden --> Judai (Nombre Original)]
+- [x] Todos los Nombres de los Decks En Castellano.
+- [x] Ciertas opciones en Castellano.
+- [x] Tutorial para principiantes en Castellano.
+- [x] Tutorial de Decks en Castellano.
+- [x] Pestañas para configurar Decks en Castellano.
+- [x] Orígenes de todos los duelistas.
 
 
 
 
 * Falta:
-[ ] Traducir modo historia.
-[ ] Traducir cartas.
-[ ] Traducir el diseño de los duelos.
-[ ] Traducir opciones al iniciar el juego.
-[ ] Traducir comentarios NPC en combate.
+- [ ] Traducir modo historia.
+- [ ] Traducir cartas.
+- [ ] Traducir el diseño de los duelos.
+- [ ] Traducir opciones al iniciar el juego.
+- [ ] Traducir comentarios NPC en combate.
 
 
 
 * **Lo que tendrá que hacer un editor de gráficos:
 - Todas las cartas.
 - Imágenes en el duelo.
-- Más cosas por añadir.
+- Más cosas por añadir.**
 
 # Instrucciones
 
