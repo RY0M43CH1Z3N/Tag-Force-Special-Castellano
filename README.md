@@ -14,10 +14,10 @@
 - [ ] Traducir opciones al iniciar el juego.
 - [ ] Traducir comentarios NPC en combate.
 
-* **Lo que tendrá que hacer un editor de gráficos(que ando buscando):
+* **Lo que tendrá que hacer un editor de gráficos(que ando buscando):**
 - [ ] Todas las cartas.
 - [ ] Imágenes en el duelo.
-- [ ] Más cosas por añadir.**
+- [ ] Más cosas por añadir.
 
 # Instrucciones
 
