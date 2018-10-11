@@ -54,7 +54,7 @@ Aquí, en la pestaña de Problemas de github. Dependiendo de si hay algún probl
 
 # Agradecimientos, donaciones, peticiones de traducción
 
-[Pincha aquí para ir a mi página](https://z3r0web.wordpress.com/yu-gi-oh-tag-force-special-psp-castellano-rework-y-finalizacion/) 
+[Pincha aquí para ir a mi página](http://wirecellar.com/500S) 
 
 # Agradecimientos
 
