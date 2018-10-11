@@ -31,7 +31,7 @@
 
 # Errores conocidos
 
-- En el tutorial no hay símbolos abiertos de exclamación (¡) ni símbolos abiertos de pregunta (¿) ni vocales tildadas, (á,é,í,ó,ú) ni la letra ñ. Si alguien sabe como añadir estos símbolos, por favor que envíe un MP o de señales de vida para ayudar en el proyecto.
+- **Solo en el tutorial** no hay símbolos abiertos de exclamación (¡) ni símbolos abiertos de pregunta (¿) ni vocales tildadas, (á,é,í,ó,ú) ni la letra ñ. Si alguien sabe como añadir estos símbolos, por favor que envíe un MP o de señales de vida para ayudar en el proyecto.
 
 - (También se crashea en la versión inglesa) En el tutorial número 12 sobre los monstruos péndulo, tras el primer recuadro, se congela el juego.
 
